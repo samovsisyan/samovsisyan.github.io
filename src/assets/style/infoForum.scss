@@ -1,0 +1,66 @@
+.article{
+  display: flex;
+  width: 100%;
+  height: 300px;
+  margin-top: 50px;
+
+  &_figure{
+    width: 35%;
+    &_img{
+      width: 100%;
+      height: 100%;
+    }
+  }
+  &_figcaption{
+    width: 65%;
+    &_title{
+      color: #06BBCCFF;
+    }
+    &_description{
+
+    }
+  }
+}
+
+
+@media (max-width: 375px) {
+
+}
+@media (max-width: 425px) {
+
+}
+@media (max-width: 576px) {
+  .article{
+    display: block;
+    margin: 0 auto;
+    &_figure {
+      width: 100%;
+
+
+      &_img {
+        width: 80%;
+        height: 100%;
+      }
+    }
+    &_figcaption{
+      width: 100%;
+      margin-left: 20px;
+      &_title{
+        color: #06BBCCFF;
+      }
+      &_description{
+
+      }
+    }
+  }
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 1170px) {
+
+}
