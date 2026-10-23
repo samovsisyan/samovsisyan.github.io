@@ -1,0 +1,78 @@
+Samvel Movsisyan
+Full-Stack Software Engineer · React · Next.js · Node.js · TypeScript · AI / MCP
+Erywań, Armenia | +374 94 444 511 | samovsisyan.web@gmail.com
+linkedin.com/in/samovsisyan | github.com/samovsisyan
+
+
+O MNIE
+------
+Ponad 6 lat komercyjnego doświadczenia w tworzeniu aplikacji webowych i mobilnych: platformy SaaS, komponenty UI wielokrotnego użytku, integracje REST API i łatwa w utrzymaniu architektura, z pracą wspieraną przez AI, która dba o jakość i bezpieczeństwo. Korzystam z programowania wspieranego przez AI, aby pracować szybciej, zachowując jakość kodu, bezpieczeństwo i spójność architektury. Zależy mi na zarządzaniu stanem, wydajności i ścisłej współpracy zespołów frontend i backend.
+
+DOŚWIADCZENIE
+-------------
+AmeriPharma — Full-Stack Developer (2025 – 2026)
+Technologie medyczne · USA, zdalnie
+- Zbudowałem i skalowałem Medbox, wieloplatformową aplikację mobilną (iOS i Android) oraz portal webowy do śledzenia leków i umawiania wizyt, w React, React Native i TypeScript.
+- Stworzyłem bezpieczne serwisy backendowe i REST API w Node.js i Express z autoryzacją opartą na rolach i solidną obsługą błędów.
+- Zbudowałem system komponentów UI wielokrotnego użytku i zoptymalizowałem zarządzanie stanem, wyraźnie poprawiając szybkość i stabilność aplikacji.
+- Prowadziłem wydania mobilne w App Store i Google Play Console od konfiguracji CI/CD po wdrożenie produkcyjne.
+- Współpracowałem z zespołami interdyscyplinarnymi przy dostarczaniu funkcji medycznych zgodnych z HIPAA w procesie Agile.
+
+staff.am — Full-Stack Developer (2023 – 2025)
+HR tech, portal pracy · Erywań
+- Projektowałem i tworzyłem REST API w Node.js i Express.js, łącząc skalowalne serwisy backendowe z frontendem React i relacyjnymi bazami danych.
+- Zoptymalizowałem wydajność stron dla kandydatów dzięki code-splittingowi, lazy loadingowi, memoizacji komponentów i wydajnemu pobieraniu danych.
+- Zwiększyłem niezawodność automatycznymi testami jednostkowymi i integracyjnymi w Jest i React Testing Library dla kluczowych ścieżek.
+- Usprawniłem lokalny development i wdrożenia, konteneryzując serwisy w Dockerze i dostrajając buildy Webpack i Babel.
+- Rozszerzyłem platformę na iOS i Androida w React Native, wykorzystując logikę biznesową, zarządzanie stanem i integracje backendowe.
+
+Hirebee.ai — Full-Stack Developer (2021 – 2023)
+SaaS rekrutacyjny · Erywań
+- Zaprojektowałem biblioteki komponentów React.js i Next.js oraz wspólne wzorce UI, przyspieszając dostarczanie frontendu w zespołach.
+- Zbudowałem solidną architekturę stanu w Redux Toolkit i Zustand z przewidywalnym przepływem danych w złożonych modułach.
+- Zoptymalizowałem renderowanie i obsługę danych w panelu rekrutera dzięki memoizacji, wirtualizacji list i dynamicznemu code-splittingowi, znacznie skracając czas ładowania.
+- Zintegrowałem bezpieczne endpointy REST i GraphQL oraz serwisy Node.js do automatycznego filtrowania i parsowania kandydatów.
+- Dbałem o wysoką jakość dzięki rzetelnym code review, automatycznym kontrolom CI/CD i udziałowi w planowaniu Agile/Scrum.
+
+
+UMIEJĘTNOŚCI
+------------
+Frontend: React (Ekspert), JavaScript (ES6+) (Ekspert), TypeScript (Zaawansowany), Next.js (Zaawansowany), React Router (Ekspert), Redux Toolkit / Zustand (Ekspert), TanStack Query (Zaawansowany), Tailwind CSS / MUI / SCSS (Ekspert)
+Backend i API: Node.js / Express (Zaawansowany), REST API design (Zaawansowany), Auth (JWT, OAuth) (Zaawansowany), GraphQL (Średniozaawansowany), WebSockets / real-time (Średniozaawansowany)
+Bazy danych: PostgreSQL (Średniozaawansowany), MySQL / MariaDB (Średniozaawansowany), Prisma / Sequelize (Średniozaawansowany)
+Mobile: React Native (Zaawansowany), Swift / Kotlin native modules (Średniozaawansowany), Offline-first, push, deep linking (Zaawansowany), App Store / Google Play releases (Zaawansowany)
+AI: AI coding agents (Zaawansowany), Specification-driven development (Zaawansowany), AI code review & test generation (Zaawansowany), Prompt engineering (Zaawansowany), MCP integrations (Zaawansowany)
+Jakość, bezpieczeństwo i DevOps: Jest / React Testing Library (Zaawansowany), Performance optimisation (Ekspert), Accessibility (WCAG) (Zaawansowany), Frontend security (XSS, CSRF) (Zaawansowany), Docker / CI/CD / GitHub Actions (Średniozaawansowany), Sentry monitoring (Średniozaawansowany), Git (GitHub, GitLab, Bitbucket) (Ekspert)
+
+WYBRANE PROJEKTY
+----------------
+Medbox mobile app · Ochrona zdrowia · iOS i Android · AmeriPharma · https://github.com/movsisyan-samvel-sharpant
+Wieloplatformowa aplikacja, która pomaga pacjentom śledzić przyjmowanie leków i umawiać wizyty. Rozwijam funkcje aplikacji React Native, integruję ją z API w Node.js i prowadzę wydania w App Store i Google Play.
+
+Medbox web portal · Ochrona zdrowia · Web · AmeriPharma · https://github.com/movsisyan-samvel-sharpant
+Portal webowy Medbox dla pacjentów i personelu z bezpiecznym logowaniem, dostępem opartym na rolach i tymi samymi danymi o lekach i wizytach co aplikacja mobilna.
+
+staff.am · HR tech · Portal pracy · https://staff.am
+Jeden z największych portali pracy w Armenii. Tworzyłem REST API i funkcje React dla kandydatów, przyspieszyłem strony kandydatów i pomogłem przenieść platformę na iOS i Androida.
+
+staff.am mobile app · HR tech · iOS i Android
+Aplikacja mobilna staff.am dla kandydatów: wyszukiwanie i zapisywanie ofert, aplikowanie i śledzenie statusu aplikacji. Zbudowana w React Native na istniejących API i logice biznesowej staff.am.
+
+Hirebee.ai · SaaS rekrutacyjny · https://hirebee.ai
+Platforma ATS dla rekruterów. Zbudowałem wspólną bibliotekę komponentów React i Next.js, architekturę stanu oraz szybsze panele rekrutera z automatycznym filtrowaniem kandydatów.
+
+AutoHunt · Marketplace
+Platforma importu i sprzedaży samochodów dla dealera z Giumri: katalog aut dostępnych od ręki, import z amerykańskich aukcji Copart i IAAI, serwerowy kalkulator pełnego kosztu, panel klienta ze śledzeniem importu, oferty dla firm, blog i panel administracyjny. Trzy języki, budowany z agentami AI.
+
+Sunny Kids Club · Strona + CMS
+Ormiańskojęzyczna strona i panel administracyjny dla przedszkola: serwerowe tagi SEO, sitemap, wymienny magazyn mediów i autoryzacja JWT w ciasteczku httpOnly.
+
+
+WYKSZTAŁCENIE
+-------------
+Narodowy Uniwersytet Politechniczny Armenii · Technologie informacyjne, 2020 – 2023
+Państwowe Kolegium Regionalne w Szirak · Technologia rachunkowości i obsługa sieci komputerowych, 2012 – 2016
+
+JĘZYKI
+------
+Ormiański (Ojczysty) · Rosyjski (Wyższy średniozaawansowany (B2)) · Angielski (Średniozaawansowany (B1))

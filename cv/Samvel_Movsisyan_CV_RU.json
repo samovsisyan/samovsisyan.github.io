@@ -1,0 +1,402 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Самвел Мовсисян",
+    "label": "Full-Stack инженер-программист",
+    "image": "",
+    "email": "samovsisyan.web@gmail.com",
+    "phone": "+37494444511",
+    "summary": "Более 6 лет коммерческого опыта в разработке веб- и мобильных приложений: SaaS-платформы, переиспользуемые UI-компоненты, интеграции REST API и поддерживаемая архитектура, с AI-инструментами, которые помогают сохранять качество и безопасность. Использую AI-инструменты, чтобы работать быстрее, сохраняя качество кода, безопасность и целостность архитектуры. Для меня важны управление состоянием, производительность и тесная работа frontend и backend команд.",
+    "location": {
+      "city": "Ереван",
+      "countryCode": "AM"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "samovsisyan",
+        "url": "https://www.linkedin.com/in/samovsisyan"
+      },
+      {
+        "network": "GitHub",
+        "username": "samovsisyan",
+        "url": "https://github.com/samovsisyan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "AmeriPharma",
+      "position": "Full-Stack разработчик",
+      "location": "Медицинские технологии · США, удалённо",
+      "startDate": "2025",
+      "endDate": "2026",
+      "highlights": [
+        "Создал и масштабировал Medbox, кроссплатформенное мобильное приложение (iOS и Android) и веб-портал для контроля приёма лекарств и записи к врачу, на React, React Native и TypeScript.",
+        "Разработал защищённые backend-сервисы и REST API на Node.js и Express с ролевой авторизацией и надёжной обработкой ошибок.",
+        "Построил систему переиспользуемых UI-компонентов и оптимизировал управление состоянием, заметно повысив отзывчивость и стабильность приложения.",
+        "Вёл мобильные релизы в App Store и Google Play Console от настройки CI/CD сборок до выкладки в продакшн.",
+        "Вместе с кросс-функциональными командами выпускал медицинские функции, соответствующие HIPAA, в Agile-процессе."
+      ]
+    },
+    {
+      "name": "staff.am",
+      "position": "Full-Stack разработчик",
+      "location": "HR-tech, площадка вакансий · Ереван",
+      "startDate": "2023",
+      "endDate": "2025",
+      "highlights": [
+        "Проектировал и разрабатывал REST API на Node.js и Express.js, связывая масштабируемые backend-сервисы с React-фронтендом и реляционными базами данных.",
+        "Оптимизировал производительность страниц для соискателей с помощью code-splitting, lazy loading, мемоизации компонентов и эффективной загрузки данных.",
+        "Повысил надёжность автоматическими unit- и интеграционными тестами на Jest и React Testing Library для ключевых сценариев.",
+        "Упростил локальную разработку и деплой, контейнеризировав сервисы в Docker и настроив сборки Webpack и Babel.",
+        "Вывел платформу на iOS и Android с React Native, переиспользуя бизнес-логику, управление состоянием и интеграции с backend."
+      ]
+    },
+    {
+      "name": "Hirebee.ai",
+      "position": "Full-Stack разработчик",
+      "location": "SaaS для рекрутинга · Ереван",
+      "startDate": "2021",
+      "endDate": "2023",
+      "highlights": [
+        "Спроектировал библиотеки переиспользуемых компонентов на React.js и Next.js и общие UI-паттерны, ускорив frontend-разработку в командах.",
+        "Построил надёжную архитектуру состояния на Redux Toolkit и Zustand с предсказуемым потоком данных в сложных модулях.",
+        "Оптимизировал рендеринг и работу с данными в дашборде рекрутера с помощью мемоизации, виртуализации списков и динамического code-splitting, значительно сократив время загрузки.",
+        "Интегрировал защищённые REST и GraphQL эндпоинты и сервисы на Node.js для автоматической фильтрации и разбора кандидатов.",
+        "Поддерживал высокое качество через тщательное код-ревью, автоматические проверки CI/CD и участие в планировании Agile/Scrum."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Национальный политехнический университет Армении",
+      "area": "Информационные технологии",
+      "startDate": "2020",
+      "endDate": "2023"
+    },
+    {
+      "institution": "Ширакский региональный государственный колледж",
+      "area": "Бухгалтерские технологии и обслуживание компьютерных сетей",
+      "startDate": "2012",
+      "endDate": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Эксперт",
+      "keywords": [
+        "React",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "Next.js",
+        "React Router",
+        "Redux Toolkit / Zustand",
+        "TanStack Query",
+        "Tailwind CSS / MUI / SCSS"
+      ]
+    },
+    {
+      "name": "Backend и API",
+      "level": "Продвинутый",
+      "keywords": [
+        "Node.js / Express",
+        "REST API design",
+        "Auth (JWT, OAuth)",
+        "GraphQL",
+        "WebSockets / real-time"
+      ]
+    },
+    {
+      "name": "Базы данных",
+      "level": "Средний",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL / MariaDB",
+        "Prisma / Sequelize"
+      ]
+    },
+    {
+      "name": "Мобильная разработка",
+      "level": "Продвинутый",
+      "keywords": [
+        "React Native",
+        "Swift / Kotlin native modules",
+        "Offline-first, push, deep linking",
+        "App Store / Google Play releases"
+      ]
+    },
+    {
+      "name": "AI",
+      "level": "Продвинутый",
+      "keywords": [
+        "AI coding agents",
+        "Specification-driven development",
+        "AI code review & test generation",
+        "Prompt engineering",
+        "MCP integrations"
+      ]
+    },
+    {
+      "name": "Качество, безопасность и DevOps",
+      "level": "Эксперт",
+      "keywords": [
+        "Jest / React Testing Library",
+        "Performance optimisation",
+        "Accessibility (WCAG)",
+        "Frontend security (XSS, CSRF)",
+        "Docker / CI/CD / GitHub Actions",
+        "Sentry monitoring",
+        "Git (GitHub, GitLab, Bitbucket)"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Эксперт"
+    },
+    {
+      "name": "JavaScript (ES6+)",
+      "level": "Эксперт"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "Next.js",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "React Router",
+      "level": "Эксперт"
+    },
+    {
+      "name": "Redux Toolkit / Zustand",
+      "level": "Эксперт"
+    },
+    {
+      "name": "TanStack Query",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "Tailwind CSS / MUI / SCSS",
+      "level": "Эксперт"
+    },
+    {
+      "name": "Node.js / Express",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "REST API design",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "Auth (JWT, OAuth)",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "GraphQL",
+      "level": "Средний"
+    },
+    {
+      "name": "WebSockets / real-time",
+      "level": "Средний"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Средний"
+    },
+    {
+      "name": "MySQL / MariaDB",
+      "level": "Средний"
+    },
+    {
+      "name": "Prisma / Sequelize",
+      "level": "Средний"
+    },
+    {
+      "name": "React Native",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "Swift / Kotlin native modules",
+      "level": "Средний"
+    },
+    {
+      "name": "Offline-first, push, deep linking",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "App Store / Google Play releases",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "AI coding agents",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "Specification-driven development",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "AI code review & test generation",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "Prompt engineering",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "MCP integrations",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "Jest / React Testing Library",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "Performance optimisation",
+      "level": "Эксперт"
+    },
+    {
+      "name": "Accessibility (WCAG)",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "Frontend security (XSS, CSRF)",
+      "level": "Продвинутый"
+    },
+    {
+      "name": "Docker / CI/CD / GitHub Actions",
+      "level": "Средний"
+    },
+    {
+      "name": "Sentry monitoring",
+      "level": "Средний"
+    },
+    {
+      "name": "Git (GitHub, GitLab, Bitbucket)",
+      "level": "Эксперт"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Армянский",
+      "fluency": "Родной"
+    },
+    {
+      "language": "Русский",
+      "fluency": "Выше среднего (B2)"
+    },
+    {
+      "language": "Английский",
+      "fluency": "Средний (B1)"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Medbox mobile app",
+      "description": "Кроссплатформенное приложение, которое помогает пациентам контролировать приём лекарств и записываться к врачу. Разрабатываю функции в React Native приложении, интегрирую его с API на Node.js и веду релизы в App Store и Google Play.",
+      "keywords": [
+        "React Native",
+        "TypeScript",
+        "iOS",
+        "Android",
+        "Push notifications",
+        "Node.js API"
+      ],
+      "url": "https://github.com/movsisyan-samvel-sharpant",
+      "type": "Медицина · iOS и Android · AmeriPharma"
+    },
+    {
+      "name": "Medbox web portal",
+      "description": "Веб-портал Medbox для пациентов и сотрудников: защищённый вход, ролевой доступ и те же данные о лекарствах и записях, что и в мобильном приложении.",
+      "keywords": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "REST API",
+        "RBAC"
+      ],
+      "url": "https://github.com/movsisyan-samvel-sharpant",
+      "type": "Медицина · Веб · AmeriPharma"
+    },
+    {
+      "name": "staff.am",
+      "description": "Одна из крупнейших площадок вакансий в Армении. Разрабатывал REST API и React-функции для соискателей, ускорил страницы кандидатов и помог вывести платформу на iOS и Android.",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Express",
+        "React Native",
+        "Jest",
+        "Docker"
+      ],
+      "url": "https://staff.am",
+      "type": "HR-tech · Площадка вакансий"
+    },
+    {
+      "name": "staff.am mobile app",
+      "description": "Мобильное приложение staff.am для соискателей: поиск и сохранение вакансий, отклики и отслеживание статуса откликов. Сделано на React Native поверх существующих API и бизнес-логики staff.am.",
+      "keywords": [
+        "React Native",
+        "TypeScript",
+        "iOS",
+        "Android",
+        "REST API",
+        "Redux"
+      ],
+      "type": "HR-tech · iOS и Android"
+    },
+    {
+      "name": "Hirebee.ai",
+      "description": "Система для работы рекрутеров с кандидатами. Создал общую библиотеку компонентов на React и Next.js, архитектуру состояния и ускорил дашборды рекрутеров с автоматической фильтрацией кандидатов.",
+      "keywords": [
+        "React",
+        "Next.js",
+        "Redux Toolkit",
+        "Zustand",
+        "GraphQL",
+        "Node.js"
+      ],
+      "url": "https://hirebee.ai",
+      "type": "SaaS для рекрутинга"
+    },
+    {
+      "name": "AutoHunt",
+      "description": "Платформа импорта и продажи автомобилей для дилера из Гюмри: каталог авто в наличии, импорт с аукционов Copart и IAAI в США, серверный калькулятор полной стоимости, личный кабинет с отслеживанием импорта, корпоративные заявки, блог и админ-панель. Три языка, разработан с AI-агентами (AGENTS.md, CLAUDE.md).",
+      "keywords": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript",
+        "Prisma",
+        "PostgreSQL",
+        "Tailwind v4",
+        "zod",
+        "JWT",
+        "S3"
+      ],
+      "type": "Маркетплейс"
+    },
+    {
+      "name": "Sunny Kids Club",
+      "description": "Армяноязычный сайт и админ-панель для детского сада: серверные SEO-теги, sitemap, подключаемое хранилище медиа и JWT-авторизация в httpOnly cookie.",
+      "keywords": [
+        "React 19",
+        "Vite",
+        "TanStack Query",
+        "Express 5",
+        "Prisma",
+        "PostgreSQL"
+      ],
+      "type": "Сайт + CMS"
+    }
+  ],
+  "meta": {
+    "language": "ru",
+    "version": "v1.0.0",
+    "lastModified": "2026-10-19"
+  }
+}
