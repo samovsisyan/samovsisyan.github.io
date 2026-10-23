@@ -1,0 +1,402 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Սամվել Մովսիսյան",
+    "label": "Full-Stack ծրագրային ինժեներ",
+    "image": "",
+    "email": "samovsisyan.web@gmail.com",
+    "phone": "+37494444511",
+    "summary": "6+ տարվա կոմերցիոն փորձ վեբ և մոբայլ հավելվածների մշակման մեջ՝ SaaS հարթակներ, վերաօգտագործվող UI կոմպոնենտներ, REST API ինտեգրացիաներ և հեշտ սպասարկվող ճարտարապետություն, AI գործիքներով, որոնք պահպանում են որակն ու անվտանգությունը։ Օգտագործում եմ AI գործիքներ՝ ավելի արագ աշխատելու համար՝ պահպանելով կոդի որակը, անվտանգությունը և ճարտարապետության ամբողջականությունը։ Ինձ համար կարևոր են state-ի կառավարումը, արագագործությունը և frontend ու backend թիմերի սերտ համագործակցությունը։",
+    "location": {
+      "city": "Երևան",
+      "countryCode": "AM"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "samovsisyan",
+        "url": "https://www.linkedin.com/in/samovsisyan"
+      },
+      {
+        "network": "GitHub",
+        "username": "samovsisyan",
+        "url": "https://github.com/samovsisyan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "AmeriPharma",
+      "position": "Full-Stack ծրագրավորող",
+      "location": "Առողջապահական տեխնոլոգիաներ · ԱՄՆ, հեռավար",
+      "startDate": "2025",
+      "endDate": "2026",
+      "highlights": [
+        "Ստեղծել և մասշտաբավորել եմ Medbox-ը՝ կրոսպլատֆորմ մոբայլ հավելված (iOS և Android) և վեբ պորտալ դեղորայքի հետևման և գրանցման համար՝ React, React Native և TypeScript-ով։",
+        "Մշակել եմ անվտանգ backend սերվիսներ և REST API-ներ Node.js-ով և Express-ով՝ դերային ավտորիզացիայով և սխալների հուսալի մշակմամբ։",
+        "Ստեղծել եմ վերաօգտագործվող UI կոմպոնենտների համակարգ և օպտիմալացրել state-ի կառավարումը՝ զգալիորեն բարելավելով հավելվածի արագությունն ու կայունությունը։",
+        "Վարել եմ մոբայլ թողարկումները App Store-ում և Google Play Console-ում՝ CI/CD կառուցման կարգավորումից մինչև արտադրական թողարկում։",
+        "Կրոս-ֆունկցիոնալ թիմերի հետ թողարկել եմ HIPAA-ին համապատասխան առողջապահական ֆունկցիաներ Agile գործընթացում։"
+      ]
+    },
+    {
+      "name": "staff.am",
+      "position": "Full-Stack ծրագրավորող",
+      "location": "HR-tech, աշխատանքի հարթակ · Երևան",
+      "startDate": "2023",
+      "endDate": "2025",
+      "highlights": [
+        "Նախագծել և մշակել եմ REST API-ներ Node.js-ով և Express.js-ով՝ կապելով մասշտաբելի backend սերվիսները React ֆրոնտենդի և ռելյացիոն տվյալների բազաների հետ։",
+        "Օպտիմալացրել եմ թեկնածուների էջերի արագությունը code-splitting-ի, lazy loading-ի, կոմպոնենտների մեմոիզացիայի և տվյալների արդյունավետ բեռնման միջոցով։",
+        "Բարձրացրել եմ հուսալիությունը Jest և React Testing Library ավտոմատ unit և ինտեգրացիոն թեստերով հիմնական սցենարների համար։",
+        "Պարզեցրել եմ լոկալ մշակումը և թողարկումը՝ սերվիսները կոնտեյներացնելով Docker-ով և կարգավորելով Webpack ու Babel կառուցումները։",
+        "Հարթակը տեղափոխել եմ iOS և Android React Native-ով՝ վերաօգտագործելով բիզնես տրամաբանությունը, state-ի կառավարումը և backend ինտեգրացիաները։"
+      ]
+    },
+    {
+      "name": "Hirebee.ai",
+      "position": "Full-Stack ծրագրավորող",
+      "location": "Ռեկրուտինգի SaaS · Երևան",
+      "startDate": "2021",
+      "endDate": "2023",
+      "highlights": [
+        "Նախագծել եմ վերաօգտագործվող React.js և Next.js կոմպոնենտների գրադարաններ և ընդհանուր UI պատտերններ՝ արագացնելով frontend մշակումը թիմերում։",
+        "Ստեղծել եմ state-ի հուսալի ճարտարապետություն Redux Toolkit-ով և Zustand-ով՝ կանխատեսելի տվյալների հոսքով բարդ մոդուլներում։",
+        "Օպտիմալացրել եմ ռեկրուտերի վահանակի ռենդերինգը և տվյալների մշակումը մեմոիզացիայով, ցուցակների վիրտուալիզացիայով և դինամիկ code-splitting-ով՝ զգալիորեն կրճատելով բեռնման ժամանակը։",
+        "Ինտեգրել եմ անվտանգ REST և GraphQL endpoint-ներ և Node.js սերվիսներ՝ թեկնածուների ավտոմատ ֆիլտրման և վերլուծության համար։",
+        "Պահպանել եմ բարձր որակ մանրակրկիտ կոդի ստուգումներով, ավտոմատ CI/CD ստուգումներով և Agile/Scrum պլանավորմանը մասնակցությամբ։"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Հայաստանի ազգային պոլիտեխնիկական համալսարան",
+      "area": "Տեղեկատվական տեխնոլոգիաներ",
+      "startDate": "2020",
+      "endDate": "2023"
+    },
+    {
+      "institution": "Շիրակի տարածքային պետական քոլեջ",
+      "area": "Հաշվապահական տեխնոլոգիաներ և համակարգչային ցանցերի սպասարկում",
+      "startDate": "2012",
+      "endDate": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Փորձագետ",
+      "keywords": [
+        "React",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "Next.js",
+        "React Router",
+        "Redux Toolkit / Zustand",
+        "TanStack Query",
+        "Tailwind CSS / MUI / SCSS"
+      ]
+    },
+    {
+      "name": "Backend և API",
+      "level": "Բարձր",
+      "keywords": [
+        "Node.js / Express",
+        "REST API design",
+        "Auth (JWT, OAuth)",
+        "GraphQL",
+        "WebSockets / real-time"
+      ]
+    },
+    {
+      "name": "Տվյալների բազաներ",
+      "level": "Միջին",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL / MariaDB",
+        "Prisma / Sequelize"
+      ]
+    },
+    {
+      "name": "Մոբայլ",
+      "level": "Բարձր",
+      "keywords": [
+        "React Native",
+        "Swift / Kotlin native modules",
+        "Offline-first, push, deep linking",
+        "App Store / Google Play releases"
+      ]
+    },
+    {
+      "name": "AI",
+      "level": "Բարձր",
+      "keywords": [
+        "AI coding agents",
+        "Specification-driven development",
+        "AI code review & test generation",
+        "Prompt engineering",
+        "MCP integrations"
+      ]
+    },
+    {
+      "name": "Որակ, անվտանգություն և DevOps",
+      "level": "Փորձագետ",
+      "keywords": [
+        "Jest / React Testing Library",
+        "Performance optimisation",
+        "Accessibility (WCAG)",
+        "Frontend security (XSS, CSRF)",
+        "Docker / CI/CD / GitHub Actions",
+        "Sentry monitoring",
+        "Git (GitHub, GitLab, Bitbucket)"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Փորձագետ"
+    },
+    {
+      "name": "JavaScript (ES6+)",
+      "level": "Փորձագետ"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Բարձր"
+    },
+    {
+      "name": "Next.js",
+      "level": "Բարձր"
+    },
+    {
+      "name": "React Router",
+      "level": "Փորձագետ"
+    },
+    {
+      "name": "Redux Toolkit / Zustand",
+      "level": "Փորձագետ"
+    },
+    {
+      "name": "TanStack Query",
+      "level": "Բարձր"
+    },
+    {
+      "name": "Tailwind CSS / MUI / SCSS",
+      "level": "Փորձագետ"
+    },
+    {
+      "name": "Node.js / Express",
+      "level": "Բարձր"
+    },
+    {
+      "name": "REST API design",
+      "level": "Բարձր"
+    },
+    {
+      "name": "Auth (JWT, OAuth)",
+      "level": "Բարձր"
+    },
+    {
+      "name": "GraphQL",
+      "level": "Միջին"
+    },
+    {
+      "name": "WebSockets / real-time",
+      "level": "Միջին"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Միջին"
+    },
+    {
+      "name": "MySQL / MariaDB",
+      "level": "Միջին"
+    },
+    {
+      "name": "Prisma / Sequelize",
+      "level": "Միջին"
+    },
+    {
+      "name": "React Native",
+      "level": "Բարձր"
+    },
+    {
+      "name": "Swift / Kotlin native modules",
+      "level": "Միջին"
+    },
+    {
+      "name": "Offline-first, push, deep linking",
+      "level": "Բարձր"
+    },
+    {
+      "name": "App Store / Google Play releases",
+      "level": "Բարձր"
+    },
+    {
+      "name": "AI coding agents",
+      "level": "Բարձր"
+    },
+    {
+      "name": "Specification-driven development",
+      "level": "Բարձր"
+    },
+    {
+      "name": "AI code review & test generation",
+      "level": "Բարձր"
+    },
+    {
+      "name": "Prompt engineering",
+      "level": "Բարձր"
+    },
+    {
+      "name": "MCP integrations",
+      "level": "Բարձր"
+    },
+    {
+      "name": "Jest / React Testing Library",
+      "level": "Բարձր"
+    },
+    {
+      "name": "Performance optimisation",
+      "level": "Փորձագետ"
+    },
+    {
+      "name": "Accessibility (WCAG)",
+      "level": "Բարձր"
+    },
+    {
+      "name": "Frontend security (XSS, CSRF)",
+      "level": "Բարձր"
+    },
+    {
+      "name": "Docker / CI/CD / GitHub Actions",
+      "level": "Միջին"
+    },
+    {
+      "name": "Sentry monitoring",
+      "level": "Միջին"
+    },
+    {
+      "name": "Git (GitHub, GitLab, Bitbucket)",
+      "level": "Փորձագետ"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Հայերեն",
+      "fluency": "Մայրենի"
+    },
+    {
+      "language": "Ռուսերեն",
+      "fluency": "Միջինից բարձր (B2)"
+    },
+    {
+      "language": "Անգլերեն",
+      "fluency": "Միջին (B1)"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Medbox mobile app",
+      "description": "Կրոսպլատֆորմ հավելված, որն օգնում է պացիենտներին հետևել դեղորայքի ընդունմանը և գրանցվել բժշկի մոտ։ Մշակում եմ React Native հավելվածի ֆունկցիաները, ինտեգրում Node.js API-ների հետ և վարում App Store ու Google Play թողարկումները։",
+      "keywords": [
+        "React Native",
+        "TypeScript",
+        "iOS",
+        "Android",
+        "Push notifications",
+        "Node.js API"
+      ],
+      "url": "https://github.com/movsisyan-samvel-sharpant",
+      "type": "Առողջապահություն · iOS և Android · AmeriPharma"
+    },
+    {
+      "name": "Medbox web portal",
+      "description": "Medbox-ի վեբ պորտալ պացիենտների և աշխատակիցների համար՝ անվտանգ մուտք, դերային հասանելիություն և նույն դեղորայքի ու գրանցումների տվյալները, ինչ մոբայլ հավելվածում։",
+      "keywords": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "REST API",
+        "RBAC"
+      ],
+      "url": "https://github.com/movsisyan-samvel-sharpant",
+      "type": "Առողջապահություն · Վեբ · AmeriPharma"
+    },
+    {
+      "name": "staff.am",
+      "description": "Հայաստանի ամենամեծ աշխատանքային հարթակներից մեկը։ Մշակել եմ REST API-ներ և React ֆունկցիաներ աշխատանք փնտրողների համար, արագացրել թեկնածուների էջերը և օգնել հարթակը տեղափոխել iOS և Android։",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Express",
+        "React Native",
+        "Jest",
+        "Docker"
+      ],
+      "url": "https://staff.am",
+      "type": "HR-tech · Աշխատանքի հարթակ"
+    },
+    {
+      "name": "staff.am mobile app",
+      "description": "staff.am-ի մոբայլ հավելված աշխատանք փնտրողների համար՝ աշխատատեղերի որոնում և պահպանում, դիմումներ և դիմումների կարգավիճակի հետևում։ Ստեղծված է React Native-ով՝ staff.am-ի առկա API-ների և բիզնես տրամաբանության հիման վրա։",
+      "keywords": [
+        "React Native",
+        "TypeScript",
+        "iOS",
+        "Android",
+        "REST API",
+        "Redux"
+      ],
+      "type": "HR-tech · iOS և Android"
+    },
+    {
+      "name": "Hirebee.ai",
+      "description": "Թեկնածուների հետ աշխատանքի հարթակ ռեկրուտերների համար։ Ստեղծել եմ React և Next.js կոմպոնենտների ընդհանուր գրադարան, state-ի ճարտարապետություն և արագացրել ռեկրուտերների վահանակները թեկնածուների ավտոմատ ֆիլտրմամբ։",
+      "keywords": [
+        "React",
+        "Next.js",
+        "Redux Toolkit",
+        "Zustand",
+        "GraphQL",
+        "Node.js"
+      ],
+      "url": "https://hirebee.ai",
+      "type": "Ռեկրուտինգի SaaS"
+    },
+    {
+      "name": "AutoHunt",
+      "description": "Ավտոմեքենաների ներմուծման և վաճառքի հարթակ Գյումրիի դիլերի համար՝ առկա մեքենաների կատալոգ, ներմուծում ԱՄՆ Copart և IAAI աճուրդներից, սերվերային ամբողջական արժեքի հաշվիչ, հաճախորդի անձնական էջ ներմուծման հետևմամբ, կորպորատիվ հայտեր, բլոգ և ադմին վահանակ։ Եռալեզու, մշակված AI գործակալների հետ։",
+      "keywords": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript",
+        "Prisma",
+        "PostgreSQL",
+        "Tailwind v4",
+        "zod",
+        "JWT",
+        "S3"
+      ],
+      "type": "Մարքեթփլեյս"
+    },
+    {
+      "name": "Sunny Kids Club",
+      "description": "Հայալեզու կայք և ադմին վահանակ մանկապարտեզի համար՝ սերվերային SEO թեգեր, sitemap, մեդիա պահոց և JWT ավտորիզացիա httpOnly cookie-ով։",
+      "keywords": [
+        "React 19",
+        "Vite",
+        "TanStack Query",
+        "Express 5",
+        "Prisma",
+        "PostgreSQL"
+      ],
+      "type": "Կայք + CMS"
+    }
+  ],
+  "meta": {
+    "language": "hy",
+    "version": "v1.0.0",
+    "lastModified": "2026-10-19"
+  }
+}

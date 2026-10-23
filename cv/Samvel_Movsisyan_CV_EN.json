@@ -1,0 +1,402 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Samvel Movsisyan",
+    "label": "Full-Stack Software Engineer",
+    "image": "",
+    "email": "samovsisyan.web@gmail.com",
+    "phone": "+37494444511",
+    "summary": "6+ years of commercial experience building web and mobile applications: SaaS platforms, reusable UI components, REST API integrations and maintainable architectures, with AI-assisted workflows that keep quality and security high. I use AI-assisted development to move faster while keeping code quality, security and architecture consistent. I care about state management, performance and working closely across frontend and backend teams.",
+    "location": {
+      "city": "Yerevan",
+      "countryCode": "AM"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "samovsisyan",
+        "url": "https://www.linkedin.com/in/samovsisyan"
+      },
+      {
+        "network": "GitHub",
+        "username": "samovsisyan",
+        "url": "https://github.com/samovsisyan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "AmeriPharma",
+      "position": "Full-Stack Developer",
+      "location": "Healthcare technology · USA, remote",
+      "startDate": "2025",
+      "endDate": "2026",
+      "highlights": [
+        "Built and scaled Medbox, a cross-platform mobile app (iOS & Android) and web portal for medication tracking and appointment scheduling, using React, React Native and TypeScript.",
+        "Developed secure backend services and REST APIs with Node.js and Express, with role-based authentication and robust error handling.",
+        "Engineered reusable UI component systems and optimised client-side state management, making the app noticeably more responsive and stable.",
+        "Managed end-to-end mobile releases on the Apple App Store and Google Play Console, from CI/CD build configuration to production deployment.",
+        "Partnered with cross-functional teams to deliver HIPAA-compliant, production-ready healthcare features in Agile workflows."
+      ]
+    },
+    {
+      "name": "staff.am",
+      "position": "Full-Stack Developer",
+      "location": "HR tech, job marketplace · Yerevan",
+      "startDate": "2023",
+      "endDate": "2025",
+      "highlights": [
+        "Architected and developed RESTful APIs with Node.js and Express.js, connecting scalable backend services with React frontends and relational databases.",
+        "Optimised candidate-facing web performance through code-splitting, lazy loading, component memoisation and efficient data fetching.",
+        "Improved reliability with automated unit and integration tests in Jest and React Testing Library for core user workflows.",
+        "Streamlined local development and deployment by containerising services with Docker and tuning Webpack and Babel builds.",
+        "Expanded the platform to iOS and Android with React Native, reusing core business logic, state management and backend integrations."
+      ]
+    },
+    {
+      "name": "Hirebee.ai",
+      "position": "Full-Stack Developer",
+      "location": "Recruitment SaaS · Yerevan",
+      "startDate": "2021",
+      "endDate": "2023",
+      "highlights": [
+        "Architected reusable React.js and Next.js component libraries and shared UI patterns, speeding up frontend delivery across teams.",
+        "Engineered a robust client-side state architecture with Redux Toolkit and Zustand for predictable data flow across complex modules.",
+        "Optimised recruiter dashboard rendering and data handling with memoisation, list virtualisation and dynamic code-splitting, significantly cutting load times.",
+        "Integrated secure REST and GraphQL endpoints and Node.js services to power automated candidate filtering and parsing.",
+        "Kept engineering quality high through rigorous code reviews, automated CI/CD checks and Agile/Scrum planning."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Polytechnic University of Armenia",
+      "area": "Information Technologies",
+      "startDate": "2020",
+      "endDate": "2023"
+    },
+    {
+      "institution": "Shirak Regional State College",
+      "area": "Accounting Technology and Computer Networks Maintenance",
+      "startDate": "2012",
+      "endDate": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Expert",
+      "keywords": [
+        "React",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "Next.js",
+        "React Router",
+        "Redux Toolkit / Zustand",
+        "TanStack Query",
+        "Tailwind CSS / MUI / SCSS"
+      ]
+    },
+    {
+      "name": "Backend & APIs",
+      "level": "Advanced",
+      "keywords": [
+        "Node.js / Express",
+        "REST API design",
+        "Auth (JWT, OAuth)",
+        "GraphQL",
+        "WebSockets / real-time"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL / MariaDB",
+        "Prisma / Sequelize"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "Advanced",
+      "keywords": [
+        "React Native",
+        "Swift / Kotlin native modules",
+        "Offline-first, push, deep linking",
+        "App Store / Google Play releases"
+      ]
+    },
+    {
+      "name": "AI",
+      "level": "Advanced",
+      "keywords": [
+        "AI coding agents",
+        "Specification-driven development",
+        "AI code review & test generation",
+        "Prompt engineering",
+        "MCP integrations"
+      ]
+    },
+    {
+      "name": "Quality, security & DevOps",
+      "level": "Expert",
+      "keywords": [
+        "Jest / React Testing Library",
+        "Performance optimisation",
+        "Accessibility (WCAG)",
+        "Frontend security (XSS, CSRF)",
+        "Docker / CI/CD / GitHub Actions",
+        "Sentry monitoring",
+        "Git (GitHub, GitLab, Bitbucket)"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Expert"
+    },
+    {
+      "name": "JavaScript (ES6+)",
+      "level": "Expert"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced"
+    },
+    {
+      "name": "Next.js",
+      "level": "Advanced"
+    },
+    {
+      "name": "React Router",
+      "level": "Expert"
+    },
+    {
+      "name": "Redux Toolkit / Zustand",
+      "level": "Expert"
+    },
+    {
+      "name": "TanStack Query",
+      "level": "Advanced"
+    },
+    {
+      "name": "Tailwind CSS / MUI / SCSS",
+      "level": "Expert"
+    },
+    {
+      "name": "Node.js / Express",
+      "level": "Advanced"
+    },
+    {
+      "name": "REST API design",
+      "level": "Advanced"
+    },
+    {
+      "name": "Auth (JWT, OAuth)",
+      "level": "Advanced"
+    },
+    {
+      "name": "GraphQL",
+      "level": "Intermediate"
+    },
+    {
+      "name": "WebSockets / real-time",
+      "level": "Intermediate"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate"
+    },
+    {
+      "name": "MySQL / MariaDB",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Prisma / Sequelize",
+      "level": "Intermediate"
+    },
+    {
+      "name": "React Native",
+      "level": "Advanced"
+    },
+    {
+      "name": "Swift / Kotlin native modules",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Offline-first, push, deep linking",
+      "level": "Advanced"
+    },
+    {
+      "name": "App Store / Google Play releases",
+      "level": "Advanced"
+    },
+    {
+      "name": "AI coding agents",
+      "level": "Advanced"
+    },
+    {
+      "name": "Specification-driven development",
+      "level": "Advanced"
+    },
+    {
+      "name": "AI code review & test generation",
+      "level": "Advanced"
+    },
+    {
+      "name": "Prompt engineering",
+      "level": "Advanced"
+    },
+    {
+      "name": "MCP integrations",
+      "level": "Advanced"
+    },
+    {
+      "name": "Jest / React Testing Library",
+      "level": "Advanced"
+    },
+    {
+      "name": "Performance optimisation",
+      "level": "Expert"
+    },
+    {
+      "name": "Accessibility (WCAG)",
+      "level": "Advanced"
+    },
+    {
+      "name": "Frontend security (XSS, CSRF)",
+      "level": "Advanced"
+    },
+    {
+      "name": "Docker / CI/CD / GitHub Actions",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Sentry monitoring",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Git (GitHub, GitLab, Bitbucket)",
+      "level": "Expert"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Armenian",
+      "fluency": "Native"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Upper-intermediate (B2)"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate (B1)"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Medbox mobile app",
+      "description": "Cross-platform app that helps patients track medications and book appointments. I build features across the React Native app, integrate it with the Node.js APIs and run App Store and Google Play releases.",
+      "keywords": [
+        "React Native",
+        "TypeScript",
+        "iOS",
+        "Android",
+        "Push notifications",
+        "Node.js API"
+      ],
+      "url": "https://github.com/movsisyan-samvel-sharpant",
+      "type": "Healthcare · iOS & Android · AmeriPharma"
+    },
+    {
+      "name": "Medbox web portal",
+      "description": "Web portal for Medbox patients and staff with secure sign-in, role-based access and the same medication and appointment data as the mobile app.",
+      "keywords": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "REST API",
+        "RBAC"
+      ],
+      "url": "https://github.com/movsisyan-samvel-sharpant",
+      "type": "Healthcare · Web · AmeriPharma"
+    },
+    {
+      "name": "staff.am",
+      "description": "One of Armenia's largest job platforms. I built REST APIs and React features for job seekers, sped up candidate pages and helped bring the platform to iOS and Android.",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Express",
+        "React Native",
+        "Jest",
+        "Docker"
+      ],
+      "url": "https://staff.am",
+      "type": "HR tech · Job marketplace"
+    },
+    {
+      "name": "staff.am mobile app",
+      "description": "Mobile app for staff.am job seekers: search and save jobs, apply and follow application status on the go. Built with React Native on top of the existing staff.am APIs and business logic.",
+      "keywords": [
+        "React Native",
+        "TypeScript",
+        "iOS",
+        "Android",
+        "REST API",
+        "Redux"
+      ],
+      "type": "HR tech · iOS & Android"
+    },
+    {
+      "name": "Hirebee.ai",
+      "description": "Applicant tracking platform for recruiters. I built a shared React and Next.js component library, the state architecture and faster recruiter dashboards with automated candidate filtering.",
+      "keywords": [
+        "React",
+        "Next.js",
+        "Redux Toolkit",
+        "Zustand",
+        "GraphQL",
+        "Node.js"
+      ],
+      "url": "https://hirebee.ai",
+      "type": "Recruitment SaaS"
+    },
+    {
+      "name": "AutoHunt",
+      "description": "Car import and sales platform for a dealer in Gyumri: in-stock marketplace, US auction import from Copart and IAAI, a backend-driven total-cost calculator, customer dashboard with import tracking, corporate quotes, blog and admin panel. Trilingual, built agent-first with AGENTS.md and CLAUDE.md.",
+      "keywords": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript",
+        "Prisma",
+        "PostgreSQL",
+        "Tailwind v4",
+        "zod",
+        "JWT",
+        "S3"
+      ],
+      "type": "Marketplace"
+    },
+    {
+      "name": "Sunny Kids Club",
+      "description": "Public Armenian website and admin panel for a kindergarten, with server-side SEO tags, sitemap, pluggable media storage and JWT auth in httpOnly cookies.",
+      "keywords": [
+        "React 19",
+        "Vite",
+        "TanStack Query",
+        "Express 5",
+        "Prisma",
+        "PostgreSQL"
+      ],
+      "type": "Website + CMS"
+    }
+  ],
+  "meta": {
+    "language": "en",
+    "version": "v1.0.0",
+    "lastModified": "2026-10-19"
+  }
+}

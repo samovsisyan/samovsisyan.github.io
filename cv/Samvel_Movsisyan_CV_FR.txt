@@ -1,0 +1,78 @@
+Samvel Movsisyan
+Ingénieur logiciel Full-Stack · React · Next.js · Node.js · TypeScript · AI / MCP
+Erevan, Arménie | +374 94 444 511 | samovsisyan.web@gmail.com
+linkedin.com/in/samovsisyan | github.com/samovsisyan
+
+
+À PROPOS
+--------
+Plus de 6 ans d'expérience commerciale dans le développement d'applications web et mobiles : plateformes SaaS, composants UI réutilisables, intégrations d'API REST et architectures maintenables, avec des workflows assistés par IA qui préservent la qualité et la sécurité. J'utilise le développement assisté par IA pour avancer plus vite tout en gardant la qualité du code, la sécurité et la cohérence de l'architecture. Je tiens à la gestion d'état, à la performance et à une collaboration étroite entre équipes frontend et backend.
+
+EXPÉRIENCE
+----------
+AmeriPharma — Développeur Full-Stack (2025 – 2026)
+Technologies de santé · États-Unis, à distance
+- Conception et montée en charge de Medbox, une application mobile multiplateforme (iOS et Android) et un portail web de suivi des médicaments et de prise de rendez-vous, en React, React Native et TypeScript.
+- Développement de services backend sécurisés et d'API REST en Node.js et Express, avec authentification par rôles et gestion d'erreurs robuste.
+- Création de systèmes de composants UI réutilisables et optimisation de la gestion d'état côté client, pour une application nettement plus réactive et stable.
+- Gestion de bout en bout des publications sur l'App Store et Google Play Console, de la configuration CI/CD au déploiement en production.
+- Collaboration avec des équipes pluridisciplinaires pour livrer des fonctionnalités de santé conformes HIPAA en méthode Agile.
+
+staff.am — Développeur Full-Stack (2023 – 2025)
+RH, plateforme d'emploi · Erevan
+- Conception et développement d'API REST en Node.js et Express.js reliant des services backend évolutifs à des frontends React et des bases relationnelles.
+- Optimisation des performances des pages candidats grâce au code-splitting, au lazy loading, à la mémoïsation des composants et à un chargement de données efficace.
+- Fiabilité renforcée par des tests unitaires et d'intégration automatisés avec Jest et React Testing Library sur les parcours clés.
+- Simplification du développement local et du déploiement en conteneurisant les services avec Docker et en optimisant les builds Webpack et Babel.
+- Extension de la plateforme à iOS et Android avec React Native, en réutilisant la logique métier, la gestion d'état et les intégrations backend.
+
+Hirebee.ai — Développeur Full-Stack (2021 – 2023)
+SaaS de recrutement · Erevan
+- Conception de bibliothèques de composants React.js et Next.js réutilisables et de patterns UI partagés, accélérant la livraison frontend des équipes.
+- Architecture d'état robuste avec Redux Toolkit et Zustand pour un flux de données prévisible dans des modules complexes.
+- Optimisation du rendu et des données du tableau de bord recruteur (mémoïsation, virtualisation de listes, code-splitting dynamique), réduisant fortement les temps de chargement.
+- Intégration d'endpoints REST et GraphQL sécurisés et de services Node.js pour le filtrage et l'analyse automatiques des candidats.
+- Qualité maintenue grâce à des revues de code rigoureuses, des contrôles CI/CD automatisés et la planification Agile/Scrum.
+
+
+COMPÉTENCES
+-----------
+Frontend: React (Expert), JavaScript (ES6+) (Expert), TypeScript (Avancé), Next.js (Avancé), React Router (Expert), Redux Toolkit / Zustand (Expert), TanStack Query (Avancé), Tailwind CSS / MUI / SCSS (Expert)
+Backend et API: Node.js / Express (Avancé), REST API design (Avancé), Auth (JWT, OAuth) (Avancé), GraphQL (Intermédiaire), WebSockets / real-time (Intermédiaire)
+Bases de données: PostgreSQL (Intermédiaire), MySQL / MariaDB (Intermédiaire), Prisma / Sequelize (Intermédiaire)
+Mobile: React Native (Avancé), Swift / Kotlin native modules (Intermédiaire), Offline-first, push, deep linking (Avancé), App Store / Google Play releases (Avancé)
+IA: AI coding agents (Avancé), Specification-driven development (Avancé), AI code review & test generation (Avancé), Prompt engineering (Avancé), MCP integrations (Avancé)
+Qualité, sécurité et DevOps: Jest / React Testing Library (Avancé), Performance optimisation (Expert), Accessibility (WCAG) (Avancé), Frontend security (XSS, CSRF) (Avancé), Docker / CI/CD / GitHub Actions (Intermédiaire), Sentry monitoring (Intermédiaire), Git (GitHub, GitLab, Bitbucket) (Expert)
+
+PROJETS CHOISIS
+---------------
+Medbox mobile app · Santé · iOS et Android · AmeriPharma · https://github.com/movsisyan-samvel-sharpant
+Application multiplateforme qui aide les patients à suivre leurs médicaments et à prendre rendez-vous. Je développe les fonctionnalités de l'app React Native, je l'intègre aux API Node.js et je gère les publications sur l'App Store et Google Play.
+
+Medbox web portal · Santé · Web · AmeriPharma · https://github.com/movsisyan-samvel-sharpant
+Portail web Medbox pour les patients et le personnel, avec connexion sécurisée, accès par rôles et les mêmes données de médicaments et de rendez-vous que l'application mobile.
+
+staff.am · RH · Plateforme d'emploi · https://staff.am
+L'une des plus grandes plateformes d'emploi d'Arménie. J'ai développé des API REST et des fonctionnalités React pour les candidats, accéléré les pages candidats et participé au lancement sur iOS et Android.
+
+staff.am mobile app · RH · iOS et Android
+Application mobile staff.am pour les candidats : recherche et sauvegarde d'offres, candidature et suivi des candidatures en mobilité. Développée en React Native sur les API et la logique métier existantes de staff.am.
+
+Hirebee.ai · SaaS de recrutement · https://hirebee.ai
+Plateforme de suivi des candidatures pour recruteurs. J'ai conçu une bibliothèque de composants React et Next.js partagée, l'architecture d'état et des tableaux de bord plus rapides avec filtrage automatique des candidats.
+
+AutoHunt · Marketplace
+Plateforme d'import et de vente de voitures pour un concessionnaire de Gyumri : catalogue en stock, import depuis les enchères américaines Copart et IAAI, calculateur de coût total côté serveur, espace client avec suivi d'import, devis entreprises, blog et back-office. Trilingue, développé avec des agents IA.
+
+Sunny Kids Club · Site + CMS
+Site public en arménien et back-office pour une école maternelle, avec balises SEO côté serveur, sitemap, stockage média modulaire et authentification JWT en cookie httpOnly.
+
+
+FORMATION
+---------
+Université polytechnique nationale d'Arménie · Technologies de l'information, 2020 – 2023
+Collège régional d'État de Shirak · Technologie comptable et maintenance des réseaux informatiques, 2012 – 2016
+
+LANGUES
+-------
+Arménien (Langue maternelle) · Russe (Intermédiaire supérieur (B2)) · Anglais (Intermédiaire (B1))
